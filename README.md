@@ -12,3 +12,4 @@ SNR de MICROFONO_GABY.mp3: 20.66 dB
 
 Por medio del analisis de componentes independientes se busca separar separar las fuentes para encontrar las señales independientes del conjunto de audio; cada señal tiene carcterisiticas estadisticas unicas, lo que permite encontrar la voz original eliminando inetrferencias de otras voces.
 
+![](
