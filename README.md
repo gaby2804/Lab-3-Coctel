@@ -57,3 +57,10 @@ Se observan dos picos pronunciados en el rango de 100 Hz a 1000 Hz, lo cual pued
 
 Las siguientes graficas muestran las señales aplicandoles Transformada rapida de fourier (FFT), lo cual nos permite ver la distribucion de diferentes frecuencias.
 
+![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/espectro%20carlos.png)
+
+Se encuentra que la mayor amplitud de la señal esta ubicada en las bajas frecuencias y es un resultado esperado en voces humanas, la caida progresiva hacia rangos superiores tambien es un comportamientocomun de la voz.
+
+![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/espectro%20carlos.png)
+
+
