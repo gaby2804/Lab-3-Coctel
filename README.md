@@ -49,4 +49,11 @@ Esto es un comportamiento normal de la voz humana, que comunmente tiene componen
 
 Esta grafica muestra una distribución similar a la de Carlos, con un pico en la región de 100 Hz a 1000 Hz. Se observa un pequeño cambio en la forma del espectro respecto a la grafica de densidad de Carlos, lo cual se puede dar debido a las diferencias en la voz o la ubicacion del micrófono.
 
-![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/de%20dg.png)
+![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/de%20gb.png)
+
+Se observan dos picos pronunciados en el rango de 100 Hz a 1000 Hz, lo cual puede demostrar que hay más resonancias o características particulares en su voz.
+
+## Espectro de frecuencia (FFT)
+
+Las siguientes graficas muestran las señales aplicandoles Transformada rapida de fourier (FFT), lo cual nos permite ver la distribucion de diferentes frecuencias.
+
