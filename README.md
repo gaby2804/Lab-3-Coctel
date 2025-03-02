@@ -61,6 +61,11 @@ Las siguientes graficas muestran las señales aplicandoles Transformada rapida d
 
 Se encuentra que la mayor amplitud de la señal esta ubicada en las bajas frecuencias y es un resultado esperado en voces humanas, la caida progresiva hacia rangos superiores tambien es un comportamientocomun de la voz.
 
-![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/espectro%20carlos.png)
+![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/espectro%20diego.png)
+
+Este espectro es similar al anterior debido a que hay pequeñas variaciones en la intesidad de la voz en frecuencias bajas, tambien se puede concluir que hay diferenciaas en el color de la voz o calidad del microfono usado.
+
+![]()
+
 
 
