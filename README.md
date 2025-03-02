@@ -69,5 +69,9 @@ Este espectro es similar al anterior debido a que hay pequeñas variaciones en l
 
 La grafica muestra picos mas definidos, lo que evidencia una mayor acumulacion de frecuencias en su voz, su timbre de voz puede ser diferentes y un poco mas agudo entonces se ubican los datos de esta manera.
 
-![]()
+![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/espectro%20ruido.png)
+
+La grafica del espectro relacionado con el ruido tiene carcateristicas mucho mas dispersas comunes del ruido ambiente, tiene una mayor amplitud en frecuencias bajas, lo que quiere decir que hay sonudos de fondo o vibraciones.
+
+Comparar el espectro del ruido con los demas espectros ayuda a identificar sus caracterisiticas estadisticas y asi reconocer cuanto del ruido esta afectando a las demas grabaciones y su afeccion.
 
