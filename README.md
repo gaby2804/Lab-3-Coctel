@@ -40,3 +40,13 @@ Antes de observar las graficas es necesario entender que la dednsidad espectral 
 
 ### Densidad espectral 
 
+![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/de%20cb.png)
+
+Se evidedncia que la mayor concentración de potencia ocurre en frecuencias alrededor de 100 Hz a 1000 Hz.
+Esto es un comportamiento normal de la voz humana, que comunmente tiene componentes de gran potencia en estos rangos, la caída que se observa en altas frecuencias muestra que el ruido de alta frecuencia es bajo o esta atenuado.
+
+![]()
+
+
+Esta grafica muestra una distribución similar a la de Carlos, con un pico fuerte en la región de 100 Hz a 1000 Hz.
+Se nota un ligero cambio en la forma del espectro respecto a Carlos, lo que puede deberse a diferencias en la voz o el posicionamiento del micrófono.
