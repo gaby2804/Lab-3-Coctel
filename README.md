@@ -15,6 +15,11 @@ Por medio del analisis de componentes independientes se busca separar separar la
 ![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/ica.png)
 Donde se extraen 4 fuentes que corresponden a los tres microfonos y al ruido. 
 
-Para seleccionar la fuente correspondiente a la voz de carlos se planteo lo siquiente:
+Para seleccionar la fuente correspondiente a la voz de Carlos se planteo lo siquiente:
 
-![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/ica.png)
+![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/correlacion.png)
+Alli se calcula la correlacion entre cada fuente extraida y la señal emitida por el microfono de Carlos, se normaliza el coeficiente de correlación para que esté entre 0 y 1, por ultimo se selecciona la fuente con la mayor correlación (microfono de carlos), asumiendo que es la voz de Carlos.
+
+La tecnica de Beamforming es util en arreglos para los microfonos, donde se centra el sonido en una direccion mientras atenua el resto, aprovechando las diferencias de fase y tiempo, ya que enfoca el audiohacia una persona mejorando asi la legibilidad en el entorno ruidoso.
+
+![]()
