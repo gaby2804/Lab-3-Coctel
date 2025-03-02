@@ -36,4 +36,7 @@ Se utiliza solo el primer valor singular porque suele representar la señal más
 
 Antes de observar las graficas es necesario entender que la dednsidad espectral de potencia muestra como se distribuye la potencia de la señal en funcion de la frecuencia para asi ver que frecuencias de una señal tienen mas energia, los rangos de las voces masculinas tienen frecuencias entre 85 Hz - 180 Hz, mientras que las de las mujeres son mas altas 165 Hz - 255 Hz. 
 
-![]()
+![](https://github.com/gaby2804/Lab-3-Coctel/blob/main/calculo%20dp.png)
+
+### Densidad espectral 
+
