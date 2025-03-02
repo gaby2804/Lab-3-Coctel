@@ -75,3 +75,11 @@ La grafica del espectro relacionado con el ruido tiene carcateristicas mucho mas
 
 Comparar el espectro del ruido con los demas espectros ayuda a identificar sus caracterisiticas estadisticas y asi reconocer cuanto del ruido esta afectando a las demas grabaciones y su afeccion.
 
+## Requisitos :
+
+- python 3.9
+- matplotlib
+- soundfile
+- scipy.fftpack.fft
+- scipy.signal.welch
+- scipy.signal.correlate
